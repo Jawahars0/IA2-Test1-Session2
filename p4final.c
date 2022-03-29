@@ -23,7 +23,7 @@ int is_composite(int n)
   {
     if(n%i == 0)
       return 1;
-  }
+    }
   return 0;
 }
 
